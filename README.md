@@ -1,4 +1,4 @@
-# cn617_ecgSynthesization
+# ECG-Synthesization
 
 **Synthesization of P waves and QRST segments of simulated data**
  
