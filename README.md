@@ -16,4 +16,4 @@ The next step is to generate one heartbeat. To get the values for the mean RR in
 
 Subsequently, an ECG of 15 heartbeats should be generated. To attain realistic data, every single heartbeat must have a different duration. This is achieved through a generated time series, that contains 15 values for the consecutive RR intervals. According to the RR interval of a single beat, the QRST segment is stretched or shrunk, so that together with the calculated TP interval, the time series of the ECG can be put together. 
 
-Optionally, realistic ECG noise as described by Petrenas et al., 2017, Physiol Meas, vol. 38, pp. 2058-2080 (doi: 10.1088/1361-6579/aa9153) can be added to the synthetic ECG and filter settings can be applied.
+Optionally, realistic ECG noise as described by Petrenas et al., 2017, Physiol Meas, vol. 38, pp. 2058-2080 ([doi:10.1088/1361-6579/aa9153](https://dx.doi.org/10.1088/1361-6579/aa9153)) can be added to the synthetic ECG and filter settings can be applied.
