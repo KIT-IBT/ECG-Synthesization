@@ -1,0 +1,3 @@
+# README: 
+
+MVD.mat contains the multivariate normal distributions for ECG amplitudes "GMModel_amp" (in the order: P Amplitude, R amplitude) and intervals "GMModel_int" (in the order: Poff-Qon, P wave duration, QT interval, RR interval )
